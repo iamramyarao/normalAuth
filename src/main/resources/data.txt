@@ -1,0 +1,4 @@
+
+INSERT INTO users (id, email, password, first_Name, last_Name) VALUES
+(1, 'ewsadmin@perfios.com', '$2a$10$JL5vyCUMSGuBWDuQNtf50e6ePVeqpgKdNCJD51bFtySALvTQuLrx.', 'Admin', 'a');
+
